@@ -2,7 +2,7 @@ repo_name: hicmtrex/starter-nestjs
 report_id: 9e5aacca469167ce509fcbe3d2e769b1
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:17:59+00:00'
+timestamp: '2024-02-29T19:09:17+00:00'
 requested_by: hicmtrex
 provider: github
 branch: main
@@ -124,7 +124,7 @@ tools:
   last_updated_by: Rachel Schipull
   last_updated_on: 2023-02-22 19:35:20.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.8.4
   license: MIT
@@ -138,7 +138,7 @@ tools:
   last_updated_by: Rachel Schipull
   last_updated_on: 2023-02-22 19:55:02.000000000 Z
 - name: SuperTest
-  description: 'A library for testing node.js HTTP servers '
+  description: A library for testing node.js HTTP servers
   website_url: https://www.npmjs.com/package/supertest
   version: 6.3.3
   license: MIT
